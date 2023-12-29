@@ -31,8 +31,6 @@
                 <button class="sm:block md:block lg:hidden"><img class="w-10 h-10" src="assete/hamburger-menu-icon.png"></button>
         </nav>
 
-        <div>
-        </div>
 
 
 </template>

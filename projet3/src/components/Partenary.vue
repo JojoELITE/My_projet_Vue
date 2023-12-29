@@ -29,6 +29,7 @@
 
 <script>
 export default {
+name: 'PartenarySection',
 
 }
 </script>

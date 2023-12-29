@@ -97,6 +97,7 @@
 
 <script>
 export default {
+name: 'ContactSection',
 
 }
 </script>

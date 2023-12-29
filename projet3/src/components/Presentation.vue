@@ -75,11 +75,12 @@
     </template>
     
     <script>
-  export default {
-   
-  }
-  </script>
-  
-  <style>
-  
-  </style>
+    export default {
+    name: 'PresentationSection',
+    
+    }
+    </script>
+    
+    <style>
+    
+    </style>
